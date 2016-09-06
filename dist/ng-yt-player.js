@@ -74,8 +74,6 @@
 						? playerConfig = scope.ytPlayerConfig
 						: playerConfig =  new YouTubePlayerConfig();
 
-					console.log(playerConfig);
-
 					player = new YT.Player(element[0], playerConfig);
 				});
 
