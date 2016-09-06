@@ -22,7 +22,7 @@ The library is then available at `bower_components/ng-yt-player/dist/ng-yt-playe
 ## Getting Started
 
 Add reference to ng-yt-player 
-```
+```html
 <script src="/bower_components/ng-yt-player/dist/ng-yt-player.js"></script>
 ```
 
@@ -42,7 +42,7 @@ angular.controller('home',function($scope,YouTubePlayerConfig){
 });  
 ```
 In your html file within the controller where you plan to use ng-yt-player, add:
-```
+```html
  <you-tube-player yt-video-id="bfPdFzkPqmU" yt-player-config="playerConfig"></you-tube-player>
 ```
 yt-video-id being the played videoId. You can replace this by any valid expression returning a valid YouTube videoId.
