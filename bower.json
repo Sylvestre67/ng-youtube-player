@@ -1,7 +1,7 @@
 {
   "name": "ng-yt-player",
   "description": "An Angular directive for the You Tube Video Player",
-  "main": "dist/ng-ytplayer.min.js",
+  "main": "dist/ng-ytplayer.js",
   "authors": [
     "sylvestre.gug@gmail.com"
   ],

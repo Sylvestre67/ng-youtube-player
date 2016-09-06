@@ -2,7 +2,7 @@
   "name": "ng-yt-player",
   "version": "1.0.1",
   "description": "An Angular directive for the You Tube Video Player",
-  "main": "dist/ng-ytplayer.min.js",
+  "main": "dist/ng-ytplayer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
