@@ -17,7 +17,7 @@
 }(this, function (angular) {
 	'use strict';
 
-	var moduleName = 'ng-ytplayer';
+	var moduleName = 'ng-yt-player';
 	var mod = angular.module(moduleName, []);
 
 	mod.service('YouTubeLoader', function($q,$window){
