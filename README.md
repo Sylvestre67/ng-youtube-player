@@ -17,7 +17,7 @@ npm install ng-yt-player
 ```shell
 bower install ng-yt-player
 ```
-The mocks are then available at `bower_components/ng-yt-player/dist/ng-yt-player.js`.
+The library is then available at `bower_components/ng-yt-player/dist/ng-yt-player.js`.
 
 ## Getting Started
 
