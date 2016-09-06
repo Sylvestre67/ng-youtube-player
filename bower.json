@@ -1,0 +1,24 @@
+{
+  "name": "ng-yt-player",
+  "description": "An Angular directive for the You Tube Video Player",
+  "main": "dist/ng-ytplayer.min.js",
+  "authors": [
+    "sylvestre.gug@gmail.com"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Angular",
+    "YouTube",
+    "HTML5",
+    "Video",
+    "Player"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
