@@ -20,12 +20,6 @@
 	var moduleName = 'ng-ytplayer';
 	var mod = angular.module(moduleName, []);
 
-	mod.value('ng-ytplayerOptions',
-		{
-			enabled: true
-		}
-	);
-
 	mod.service('YouTubeLoader', function($q,$window){
 		var tag = document.createElement('script');
 		tag.src = "https://www.youtube.com/iframe_api";
