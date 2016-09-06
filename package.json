@@ -1,6 +1,6 @@
 {
   "name": "ng-yt-player",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An Angular directive for the You Tube Video Player",
   "main": "dist/ng-ytplayer.js",
   "scripts": {
