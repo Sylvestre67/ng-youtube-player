@@ -64,4 +64,20 @@ Simply specify your custom configuration in the playerConfig object within your 
 ```
 More information on Player Configuration and available events can be found [here](https://developers.google.com/youtube/iframe_api_reference)
 
+## Test
+
+Install dependencies
+```shell
+npm install
+```
+
+run tests
+
+```shell
+npm test
+```
+
+Note: test run against Chrome, Safari, Firefox and Opera. Edit karma.conf.js.browsers to modify.
+
+
 
